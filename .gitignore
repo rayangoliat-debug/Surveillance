@@ -1,0 +1,13 @@
+*.json
+__pycache__/
+*.pyc
+*.pyo
+*.log
+derniere_ligne.txt
+derniere_ligne.txt_last
+prospects_export_*.csv
+.env
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
