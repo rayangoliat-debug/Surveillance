@@ -10,7 +10,7 @@ import sys
 import smtplib
 import csv
 from email.mime.text import MIMEText
-from email.mime.multipart import MIMEMultipart
+from email.mime.multipart import MIMEMultipart 
 
 # ==================== CONFIGURATION EMAIL ====================
 EMAIL_EXPEDITEUR = "rayangoliat@gmail.com"
